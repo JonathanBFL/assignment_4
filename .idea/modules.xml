@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Burkhart_PA4.iml" filepath="$PROJECT_DIR$/Burkhart_PA4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/burkhart_p1/burkhart_p1.iml" filepath="$PROJECT_DIR$/burkhart_p1/burkhart_p1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/burkhart_p2/burkhart_p2.iml" filepath="$PROJECT_DIR$/burkhart_p2/burkhart_p2.iml" />
+    </modules>
+  </component>
+</project>
